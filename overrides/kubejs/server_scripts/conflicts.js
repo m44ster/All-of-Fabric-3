@@ -111,6 +111,16 @@ events.listen("recipes", function (event) {
     ["minecraft:bamboo", "minecraft:bamboo", "minecraft:bamboo"],
     ["minecraft:bamboo", "minecraft:bamboo", "minecraft:bamboo"],
   ]);
+ 
+  
+  //Blockus Golden bars
+  event.remove({ output: "blockus:golden_bars" });
+
+  event.shaped(item.of("blockus:golden_bars"), [
+    [null, null, "charm:gold_bars"],
+    [null, null, null],
+    [null, null, null],
+  ]);
 
   // Basic Coil / Red Alloy Compound
   event.remove({ output: "rswires:red_alloy_compound" });
