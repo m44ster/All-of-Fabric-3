@@ -116,11 +116,8 @@ events.listen("recipes", function (event) {
   //Blockus Golden bars
   event.remove({ output: "blockus:golden_bars" });
 
-  event.shaped(item.of("blockus:golden_bars"), [
-    [null, null, "charm:gold_bars"],
-    [null, null, null],
-    [null, null, null],
-  ]);
+  event.shapeless('blockus:golden_bars', ['charm:gold_bars'])
+  event.shapeless('charm:gold_bars', ['blockus:golden_bars'])
 
   // Basic Coil / Red Alloy Compound
   event.remove({ output: "rswires:red_alloy_compound" });
