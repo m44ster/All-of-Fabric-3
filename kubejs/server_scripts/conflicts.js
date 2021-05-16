@@ -140,6 +140,10 @@ events.listen("recipes", function (event) {
   // AE2 Grindstone
   event.remove({ output: "appliedenergistics2:grindstone" });
 
+  // Seeds
+  event.remove({ id: "sandwichable:tomato_seeds_from_tomato" });
+  event.remove({ id: "sandwichable:cucumber_seeds" });
+
   // Barrels
   var blockus_barrels = [
     "oak",
