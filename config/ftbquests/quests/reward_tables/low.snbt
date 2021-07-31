@@ -14,11 +14,11 @@
 		{ item: "croptopia:banana", count: 12, weight: 10 }
 		{ item: "croptopia:mango", count: 12, weight: 10 }
 		{ item: "croptopia:strawberry", count: 12, weight: 10 }
-		{ item: "techreborn:emerald_nugget" }
-		{ item: "techreborn:bronze_nugget" }
-		{ item: "techreborn:aluminum_nugget" }
-		{ item: "techreborn:brass_nugget" }
-		{ item: "techreborn:lead_nugget" }
-		{ item: "techreborn:copper_nugget" }
+		{ item: "techreborn:emerald_nugget", weight: 2 }
+		{ item: "techreborn:bronze_nugget", weight: 2 }
+		{ item: "techreborn:aluminum_nugget", weight: 2 }
+		{ item: "techreborn:brass_nugget", weight: 2 }
+		{ item: "techreborn:lead_nugget", weight: 2 }
+		{ item: "techreborn:copper_nugget", weight: 2 }
 	]
 }

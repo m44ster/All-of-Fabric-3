@@ -18,15 +18,15 @@
 			type: "xp_levels"
 			weight: 6
 		}
-		{ item: "betterend:aeternium_ingot", count: 2 }
-		{ item: "techreborn:iridium_ingot", count: 12 }
-		{ item: "dml-refabricated:glitch_ingot", count: 2 }
+		{ item: "betterend:aeternium_ingot", count: 2, weight: 2 }
+		{ item: "techreborn:iridium_ingot", count: 12, weight: 2 }
+		{ item: "dml-refabricated:glitch_ingot", count: 2, weight: 2 }
 		{ item: "indrev:enriched_nikolite_ingot", count: 12, weight: 4 }
 		{ item: "minecraft:gold_block", count: 12, weight: 8 }
 		{ item: "croptopia:supreme_pizza", count: 6, weight: 20 }
 		{ item: "minecraft:iron_block", count: 32, weight: 12 }
 		{ item: "tacocraft:golden_taco", weight: 15 }
 		{ item: "kibe:diamond_kibe", weight: 3 }
-		{ item: "conjuring:soul_slice", count: 2 }
+		{ item: "conjuring:soul_slice", count: 2, weight: 2 }
 	]
 }

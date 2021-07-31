@@ -91,7 +91,7 @@
 				id: "11597511AD79B3B5"
 				type: "biome"
 				icon: "promenade:dark_amaranth_roots"
-				biome: "wild_explorer:tall_dark_amaranth_forest"
+				biome: "promenade:tall_dark_amaranth_forest"
 			}]
 			rewards: [{
 				id: "64251E3CD1AD9F9E"

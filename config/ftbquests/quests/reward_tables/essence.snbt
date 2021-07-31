@@ -10,7 +10,7 @@
 		{ item: "mysticalagriculture:prudentium_essence", weight: 64 }
 		{ item: "mysticalagriculture:tertium_essence", weight: 16 }
 		{ item: "mysticalagriculture:imperium_essence", weight: 4 }
-		{ item: "mysticalagriculture:supremium_essence" }
+		{ item: "mysticalagriculture:supremium_essence", weight: 2 }
 		{ item: "mysticalagriculture:mystical_fertilizer", count: 4, weight: 32 }
 		{ item: "mysticalagriculture:mystical_fertilizer", weight: 128 }
 	]

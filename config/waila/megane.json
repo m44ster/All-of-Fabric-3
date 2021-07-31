@@ -115,6 +115,7 @@
     "hidden": false,
     "blacklist": []
   },
+  "catchServerErrors": true,
   "spawnEgg": false,
   "playerHead": true
 }

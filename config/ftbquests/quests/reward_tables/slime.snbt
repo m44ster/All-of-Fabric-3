@@ -1,6 +1,6 @@
 {
 	id: "4DE6773D47EF294F"
-	order_index: 15
+	order_index: 14
 	title: "Slime"
 	icon: "minecraft:slime_ball"
 	loot_size: 1
@@ -34,6 +34,6 @@
 		{ item: "terrarianslimes:illuminant_slime_block", weight: 20 }
 		{ item: "terrarianslimes:rainbow_slime_block", weight: 20 }
 		{ item: "minecraft:slime_block", weight: 20 }
-		{ item: "terrarianslimes:slime_crown" }
+		{ item: "terrarianslimes:slime_crown", weight: 2 }
 	]
 }

@@ -34,19 +34,6 @@
 			}]
 		}
 		{
-			icon: "minecraft:chest"
-			x: 0.0d
-			y: -1.5d
-			subtitle: "World Blender is a unique Dimension which generates all content from all dimensions in one place! To make a portal, place 8 chests in a 2x2x2 area and fill them with unique, placable blocks. To activate the portal, crouch + rightclick with a netherstar onto the chests."
-			dependencies: ["18AE8E898162EE40"]
-			id: "3332C573DD9B123D"
-			tasks: [{
-				id: "2D9184E7D6FD4ED1"
-				type: "checkmark"
-				title: "World Blender"
-			}]
-		}
-		{
 			icon: "minecraft:chiseled_stone_bricks"
 			x: -1.0d
 			y: -1.0d

@@ -5,56 +5,56 @@
 	loot_size: 1
 	hide_tooltip: true
 	rewards: [
-		{ item: "croptopia:apple_sapling" }
-		{ item: "croptopia:banana_sapling" }
-		{ item: "croptopia:orange_sapling" }
-		{ item: "croptopia:persimmon_sapling" }
-		{ item: "croptopia:plum_sapling" }
-		{ item: "croptopia:cherry_sapling" }
-		{ item: "croptopia:lemon_sapling" }
-		{ item: "croptopia:grapefruit_sapling" }
-		{ item: "croptopia:kumquat_sapling" }
-		{ item: "croptopia:peach_sapling" }
-		{ item: "croptopia:coconut_sapling" }
-		{ item: "croptopia:nutmeg_sapling" }
-		{ item: "croptopia:fig_sapling" }
-		{ item: "croptopia:nectarine_sapling" }
-		{ item: "croptopia:mango_sapling" }
-		{ item: "croptopia:dragonfruit_sapling" }
-		{ item: "croptopia:starfruit_sapling" }
-		{ item: "croptopia:avocado_sapling" }
-		{ item: "croptopia:apricot_sapling" }
-		{ item: "croptopia:pear_sapling" }
-		{ item: "croptopia:lime_sapling" }
-		{ item: "croptopia:date_sapling" }
-		{ item: "croptopia:artichoke_seed" }
-		{ item: "croptopia:asparagus_seed" }
-		{ item: "croptopia:bellpepper_seed" }
-		{ item: "croptopia:blackbean_seed" }
-		{ item: "croptopia:blackberry_seed" }
-		{ item: "croptopia:blueberry_seed" }
-		{ item: "croptopia:broccoli_seed" }
-		{ item: "croptopia:cabbage_seed" }
-		{ item: "croptopia:cantaloupe_seed" }
-		{ item: "croptopia:cauliflower_seed" }
-		{ item: "croptopia:celery_seed" }
-		{ item: "croptopia:coffee_seed" }
-		{ item: "croptopia:corn_seed" }
-		{ item: "croptopia:cranberry_seed" }
-		{ item: "croptopia:cucumber_seed" }
-		{ item: "croptopia:currant_seed" }
-		{ item: "croptopia:eggplant_seed" }
-		{ item: "croptopia:elderberry_seed" }
-		{ item: "croptopia:garlic_seed" }
-		{ item: "croptopia:grape_seed" }
-		{ item: "croptopia:greenbean_seed" }
-		{ item: "croptopia:greenonion_seed" }
-		{ item: "croptopia:honeydew_seed" }
-		{ item: "croptopia:hops_seed" }
-		{ item: "croptopia:pineapple_seed" }
-		{ item: "croptopia:almond_sapling" }
-		{ item: "croptopia:cashew_sapling" }
-		{ item: "croptopia:pecan_sapling" }
-		{ item: "croptopia:walnut_sapling" }
+		{ item: "croptopia:apple_sapling", weight: 2 }
+		{ item: "croptopia:banana_sapling", weight: 2 }
+		{ item: "croptopia:orange_sapling", weight: 2 }
+		{ item: "croptopia:persimmon_sapling", weight: 2 }
+		{ item: "croptopia:plum_sapling", weight: 2 }
+		{ item: "croptopia:cherry_sapling", weight: 2 }
+		{ item: "croptopia:lemon_sapling", weight: 2 }
+		{ item: "croptopia:grapefruit_sapling", weight: 2 }
+		{ item: "croptopia:kumquat_sapling", weight: 2 }
+		{ item: "croptopia:peach_sapling", weight: 2 }
+		{ item: "croptopia:coconut_sapling", weight: 2 }
+		{ item: "croptopia:nutmeg_sapling", weight: 2 }
+		{ item: "croptopia:fig_sapling", weight: 2 }
+		{ item: "croptopia:nectarine_sapling", weight: 2 }
+		{ item: "croptopia:mango_sapling", weight: 2 }
+		{ item: "croptopia:dragonfruit_sapling", weight: 2 }
+		{ item: "croptopia:starfruit_sapling", weight: 2 }
+		{ item: "croptopia:avocado_sapling", weight: 2 }
+		{ item: "croptopia:apricot_sapling", weight: 2 }
+		{ item: "croptopia:pear_sapling", weight: 2 }
+		{ item: "croptopia:lime_sapling", weight: 2 }
+		{ item: "croptopia:date_sapling", weight: 2 }
+		{ item: "croptopia:artichoke_seed", weight: 2 }
+		{ item: "croptopia:asparagus_seed", weight: 2 }
+		{ item: "croptopia:bellpepper_seed", weight: 2 }
+		{ item: "croptopia:blackbean_seed", weight: 2 }
+		{ item: "croptopia:blackberry_seed", weight: 2 }
+		{ item: "croptopia:blueberry_seed", weight: 2 }
+		{ item: "croptopia:broccoli_seed", weight: 2 }
+		{ item: "croptopia:cabbage_seed", weight: 2 }
+		{ item: "croptopia:cantaloupe_seed", weight: 2 }
+		{ item: "croptopia:cauliflower_seed", weight: 2 }
+		{ item: "croptopia:celery_seed", weight: 2 }
+		{ item: "croptopia:coffee_seed", weight: 2 }
+		{ item: "croptopia:corn_seed", weight: 2 }
+		{ item: "croptopia:cranberry_seed", weight: 2 }
+		{ item: "croptopia:cucumber_seed", weight: 2 }
+		{ item: "croptopia:currant_seed", weight: 2 }
+		{ item: "croptopia:eggplant_seed", weight: 2 }
+		{ item: "croptopia:elderberry_seed", weight: 2 }
+		{ item: "croptopia:garlic_seed", weight: 2 }
+		{ item: "croptopia:grape_seed", weight: 2 }
+		{ item: "croptopia:greenbean_seed", weight: 2 }
+		{ item: "croptopia:greenonion_seed", weight: 2 }
+		{ item: "croptopia:honeydew_seed", weight: 2 }
+		{ item: "croptopia:hops_seed", weight: 2 }
+		{ item: "croptopia:pineapple_seed", weight: 2 }
+		{ item: "croptopia:almond_sapling", weight: 2 }
+		{ item: "croptopia:cashew_sapling", weight: 2 }
+		{ item: "croptopia:pecan_sapling", weight: 2 }
+		{ item: "croptopia:walnut_sapling", weight: 2 }
 	]
 }

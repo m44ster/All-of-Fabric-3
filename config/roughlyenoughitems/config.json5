@@ -1,26 +1,8 @@
 {
 	"basics": {
-		"favorites": [
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "mysticalagriculture:master_infusion_crystal",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "kibe:angel_ring",
-					"Count": 127,
-					"tag": { },
-					"type": "item"
-				}
-			}
-		],
+		"favorites": [],
 		// Declares whether cheating mode is on.
-		"cheating": true,
+		"cheating": false,
 		"favoritesEnabled": true,
 		"keyBindings": {
 			"recipeKeybind": {
@@ -128,11 +110,6 @@
 				},
 				{
 					"id": "modern_industrialization:lead_plate",
-					"Count": 1,
-					"type": "item"
-				},
-				{
-					"id": "modern_industrialization:silver_ore",
 					"Count": 1,
 					"type": "item"
 				},
